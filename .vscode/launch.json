@@ -6,10 +6,10 @@
   "configurations": [
     {
       "type": "java",
-      "name": "LasterTD2",
+      "name": "LaserTD2",
       "request": "launch",
       "mainClass": "lasertd2.LaserFrame",
-      "projectName": "LasterTD2"
+      "projectName": "LaserTD2"
     }
   ]
 }
